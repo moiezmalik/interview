@@ -1,4 +1,5 @@
 # Interview
+This app was build during a technical interview. This app use Randomusers api and pull 50 users and display them on page with 4 colum grid. On hover: image move up 20 pixel. 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.4.
 
